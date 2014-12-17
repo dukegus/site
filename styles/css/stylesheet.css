@@ -3,7 +3,11 @@
 /* Base */
 body {
 	padding-top: 60px;
-	background:url(../../images/finalbackground.jpg)repeat; }
+	
+	 }
+footer {
+	text-align:center;
+}
 
 /* Layout */
 .white-background {
@@ -14,6 +18,15 @@ body {
 .wordchange {
 	color:#06C;
 	border-bottom: solid 4px; }
+	
+	.wordchange1 {
+	color:#06C;
+	 }
+	 .wordchange2 {
+	color:#06C;
+	 }
+	
+	
 	
 /* Module */
 figure {
@@ -113,6 +126,18 @@ figure a.close-caption.hidden {
 .navbar-inverse .navbar-nav>.dropdown>a:hover .caret { border-top-color: #FFFFFF}
 .navbar-inverse .navbar-nav>.dropdown>a .caret { border-bottom-color: #999999}
 .navbar-inverse .navbar-nav>.dropdown>a:hover .caret { border-bottom-color: #FFFFFF}
+.founders .brothers {
+	color:green;
+}
+.newproduct .futureproduct {
+	color:black;
+}
+.home .index {
+	color:blue;
+}
+.contact .address {
+	color:red;
+}
 /* END OF= nav bar css coding */
 /* HAMBURGER ICON */
 .icon-bar {

@@ -37,8 +37,7 @@
 
 	<body id="contact">
         
-        <?php include('inc/header.inc.php'); ?>
-
+        
 		<form action="<?php echo $_SERVER['PHP_SELF']; ?>" method="post">
 			<fieldset>
 				<p>
@@ -57,7 +56,7 @@
 			</fieldset>
 		</form>
         
-<?php include('inc/footer.inc.php'); ?> 
+
         
         <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
             <script>

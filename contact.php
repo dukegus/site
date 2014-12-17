@@ -26,7 +26,7 @@
 
 </head>
 
-<body>
+<body class="contact">
 
 <!-- Menu Bar -->
 <?php include('inc/nav.inc.php'); ?>
@@ -80,7 +80,7 @@
 
 <!-- END OF Website content -->
 <footer>
-        <p>&copy; Company 2014</p>
+        <p>GD STYLES&copy; Company 2014</p>
       </footer>
 
 <!-- jQuery -->

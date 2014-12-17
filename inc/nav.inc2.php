@@ -2,13 +2,8 @@
 <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
       <div class="container">
         <div class="navbar-header">
-          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <a class="navbar-brand" rel="home" href="index.php" title="GD Styles"> GD STYLES
+         
+          <a class="navbar-brand" rel="home" href="index.html" title="GD Styles"> GD STYLES
        <!-- ADD FOR IMAGE INSTEAD OF TEXT 
        
        <img style="max-width:225px; margin-top: -5px;"
@@ -18,7 +13,7 @@
              
              </a>   
         </div>
-        <div class="collapse navbar-collapse">
+       
           <ul class="nav navbar-nav">
           
           
@@ -29,19 +24,6 @@
       
           </ul>
         </div><!--/.nav-collapse -->
-      </div>
+      
     </div>
-    <style>
-	.founders .brothers {
-	color:green;
-}
-.newproduct .futureproduct {
-	color:black;
-}
-.home .index {
-	color:blue;
-}
-.contact .address {
-	color:red;
-}
-	</style>
+    

@@ -15,7 +15,7 @@
 
 </head>
 
-<body>
+<body class="newproduct">
 
 <!-- Menu Bar -->
 
@@ -145,6 +145,8 @@
         	</div>
         </div>
        </div>
+       
+        
 
 		
 
@@ -162,7 +164,7 @@
 
 <!-- END OF Website content -->
 <footer>
-        <p>&copy; Company 2014</p>
+        <p>GD STYLES&copy; Company 2014</p>
       </footer>
 
 

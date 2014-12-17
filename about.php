@@ -13,7 +13,7 @@
 
 </head>
 
-<body>
+<body class="founders">
 
 <!-- Menu Bar -->
 
@@ -75,17 +75,17 @@
 
 
 	<div class="row">
-   <div class="col-xs-2">
+   <div class="col-sm-2">
        
         </div>
 
     
 
-		<div class="white-background col-xs-8">
+		<div class="white-background col-sm-8">
 <p>G D Styles was created and developed by two brothers, Gabriel & Troy Thomas, who grew up interested in electronics. Gabriel would take devices apart and put them back together. Troy would take devices apart and mix them with other devices to create something new. Growing up in a poor neighborhood and not having much, the two brothers always adapted and overcame to survive. Gabriel's and Troys family realized that they had a gift when they were kids and knew their talents would take them far in life. The GD stands for Great Development Styles.</p>
 <p>Using a combination of innovative and detail oriented designs G D Styles has become a leader in creative technology. What sets them apart is their desire to create devices that transcend beyond the immagination and bring them to life.</p> 
 		</div> <!-- column size ender -->
-        <div class="col-xs-2">
+        <div class="col-sm-2">
        
         </div>
 
@@ -105,7 +105,7 @@
 
 <!-- END OF Website content -->
 <footer>
-        <p>&copy; Company 2014</p>
+        <p>GD STYLES&copy; Company 2014</p>
       </footer>
 
 <!-- jQuery -->

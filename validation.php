@@ -81,7 +81,7 @@ if(@$_POST['submitted'])
 		{
 		
 			// test to see if form data is received.
-			echo "<h1>Thanks for providing your insight</h1>";
+			echo "<h1>GD STYLES thanks you for providing your insight</h1>";
 			echo "<p>Your message has been sent. Below is the info you provided:</p>";
 			echo "<ul>";
 			echo "<li>".$name."</li>";

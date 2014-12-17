@@ -13,7 +13,7 @@
 
 </head>
 
-<body>
+<body class="home">
 
 <!-- Menu Bar -->
 <?php include('inc/nav.inc.php'); ?>
@@ -94,16 +94,18 @@
     
     
 		<div class="col-sm-6">
-<h1 class="wordchange">New Washer/Dryer Combo</h1>
+<h1 class="wordchange1">New Washer/Dryer Combo</h1>
  <img src="images/washerdryer.jpg" alt="washer/dryer" class="img-responsive">
-          <h2 class="wordchange">Large Capacity 24" All-In-One</h2>
+          <h2 class="wordchange w1">Large Capacity 24" All-In-One</h2>
+          <div class="washer1"></div>
 
 		</div> <!-- column size ender -->
          
 		<div class="col-sm-6">
-<h1 class="wordchange">New Washer/Dryer Combo w/ WI-FI</h1>
+<h1 class="wordchange2">New Washer/Dryer Combo w/ WI-FI</h1>
  <img src="images/washerdryer2.jpg" alt="washer/dryer" class="img-responsive">
-<h2 class="wordchange">Large Capacity All-In-One w/ Smart Control</h2>
+<h2 class="wordchange w2">Large Capacity All-In-One w/ Smart Control</h2>
+<div class="washer2"></div>
 
 		</div><!-- column size ender -->
 
@@ -136,8 +138,9 @@
 
 <!-- END OF Website content -->
 <footer>
-        <p>&copy; Company 2014</p>
+        <p>GD STYLES&copy; Company 2014</p>
       </footer>
+
 
 <!-- jQuery -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
